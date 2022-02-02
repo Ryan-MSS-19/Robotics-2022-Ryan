@@ -1,2 +1,2 @@
 
-<a href="https://github.com/Ryan-MSS-19/Robotics-2022-Ryan/Index.html"> ...</a>
+https://ryan-mss-19.github.io/Robotics-2022-Ryan/Index.html
